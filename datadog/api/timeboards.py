@@ -17,4 +17,4 @@ class Timeboard(
     A wrapper around Timeboard HTTP API.
     """
 
-    _resource_name = "dash"
+    _resource_name = "dashboard"
